@@ -1,0 +1,353 @@
+<resources>
+    <string name="app_name">Kitoblar Haqida</string>
+    <string name="kitoblar">Kitoblar</string>
+    <string name="dastur_haqida">Tananing barkamolligi tana chiniqshiga bog\'liq bo\'lgani kabi miyaning rivoj topib sog\'lom fikrlashi kitoblar bilan bevosita bog\'liqligi bilan ifodalanadi. Birgina kitob o\'qish kishini rivojlantirib qo\'ymadi, ammo bu sekin-asta davomiy ravishda bajarilsa bir kun kelib muommolarga oson yechim topayotganligini yoki kishilar orasida uning fikrini hurmat bilan tinglayotganliklarini sezib qilingan mehnatning samarasi bekor ketmaganligini tushunish mumkin. Kitob o\'qish kimlar uchundir balki bir muddat qiyin bo\'lishi mumkin, biroq bu qiyinchilik vaqtincha bo\'lib kitobsevarlarning nima uchun bunchalik berilib mutoaala qilishini tushunmaslik hissi yo\'qolib uning asl go\'zalligini ko\'rish va anglash bosqichiga yetilganda, ishonch bilan aytish mumkinki, to shu ondan boshlab umrning oxirigacha kitoblar hamrohga aylanadi.
+        \nQuyidagi ilova GITA akademiyasi o\'quvchisi <b>Olmos JT</b> tomonidan tayyorlangan. Bu ilovaning maqsadi badiiy kitoblarni berilib o\'qiydigan kishilar uchun bir pog\'ona yuqori bosqichga ko\'tarilish va yillar davomida real hayot tajribasi va kuzatuvlaridan kelib chiqib yetuk olimlar, professor, yozuvchi, jurnalist va o\'tmishda yashab o\'tgan vazir tomonidan bitilgan asarlar va ularning mualliflarining hayoti haqida qisqacha tanishtirishga harakat qilingan. Zero, bu kitoblar shaxsning rivojlanishi, to\'g\'ri qarorlar qabul qilinishi va o\'tmishda qilingan xatolarni takrorlanmasligi uchun hamda hayot tushunchasini baxt bilan bog\'lanishida uzluksiz ta\'sir etadi.
+    </string>
+
+    <string name="book_name_siyosatnoma">Siyosatnoma</string>
+    <string name="book_author_name_siyosatnoma">Nizomulmulk</string>
+    <string name="book_siyosatnoma_author_info">
+        Saljuqiylar davlati arbobi Abu Ali al-Hasan ibn Ali ibn Ishoq at-Tusiyning unvoni,
+        "Nizo-mulmulk", ya\'ni mulkning nizomi, tartibi nomi bilan shuhrat qozongan.
+        Nishopur va marvda o\'qib, voyaga yetkach, Balxga borib, Abu Ali ibn Shodon xizmatiga kirgan.
+        Keyinchalik u Do-vud ibn Mikoilga dabir bo\'ladi. Saljuqiylar shohi Alp Arslon saroyida
+        vazirlik mansabigacha ko\'tariladi. 1072-yilda Alp Arslon o\'ldirilgach, uning o\'g\'li,
+        17-yoshlik Malikshoh(1072-92 yillar) saroyida Nizomulmulk vazirlik qilib, qariyb davlatning barcha
+        ishlarini o\'z zimmasiga oladi. Malikshoh uni o\'z homiysi - otabek deb atagan.
+        Nizomulmulk mamlakatda yirik mulkdorlar va qabila boshliqlarining ayirmachilik (separatistax)
+        harakatlariga qarshi kurashib, davlatni bosh-qarish ishlarini markazlashtirish siyosatini
+        o\'tkazgan. 1067 yil Bag\'dodda "Nizomiyya" aqoid va huquq madrasasini qurdiradi.
+        1091 yil "Siyosatnoma" ("Siyar ul-muluk") asarini yozadi. U asarda davlat boshqaruviga aloqador
+        qariyb hamma qoida va qonunlar, usul va vositalar, qozi va qozixona ishlari, qo\'shin va
+        sarbozlar, xizmatchi va shaxsiy sarbozlar masalalari,
+        saroydagi soqchilaru posbonlar vazifalari, ularning maoshlari, pochta va ayg\'oqchilik (razvedka)
+        ishlari, ularning moddiy jihatlari, hatto shohning oilaviy ishlari,
+        soliq va hiroj, zakot va vaqf masalalari ham o\'rin olgan.
+        Asarning asosiy g\'oyasi shundan iboratki, vazir Nizomulmulk shoh va hokimlarni adlu insofga,
+        sulh va muruvvatga, davlatni oqilona boshqarib, qat\'iy qoida va tartib o\'rnatishga,
+        amaldorlarni vijdonli, pok, halol va iymonli bo\'lishga, mamlakat obodonligi,
+        uning ahli farovonligi, tinchlik va totuvligini ta\'minlash uchun harakat qilishga da\'vat qiladi.
+        Nizomulmulk Bag\'dod safari yo\'lida yollangan qotil tig\'idan halok bo\'ladi.
+    </string>
+    <string name="book_siyosatnoma_description">
+        Malikshoh Saljuqiy o\'z hukmronligi davrida saroyning olim va fozillariga davlatni
+        boshqarish tartiboti, qoidalari va usullari haqida bir risola yozishni, unda o\'tgan shohlar
+        davridagi hayoti va tajribalaridan misollar keltirishni buyuradi.
+        Bu risola, avvalo, davlatni boshqaruvida dastur vazifani bajarishini ta\'kidlaydi.
+        O\'ziga xos ijodiy bellashuvda Nizomulmulkdan tashqari yana uch kishi ham bor edi. Biroq
+        bularning orasidan 1091 yili yozilgan Nizomulmulkning 39 bobli “Siyosatnoma” yoki
+        “Siyar ul-mulk” (“Podshohlar turmushi”) asari shohga manzur bo’ladi.
+        Shundan so\'ng Nizomulmulk 1092-yili asarni qayta ishlab chiqadi va uni ko\'chirib,
+        Sulton Malikshohga yetkazish uchun saroyning maxsus kotibi Muhammad Mag\'ribiy An-Nosihga
+        topshirib, o\'zi Bag\'dod safariga ketadi.\n
+        1092-yili Malikshoh o\'ldirtirilganidan keyin, saroyda toj-u taxt uchun kurash avjiga chiqadi.
+        Bu kurashda Nizomulmulk Malikshohning katta o\'g\'li Barqayoriqning taxt uchun kurashiga
+        madad beradi va bu bilan Malikshoxning xotini Turkonxotuning ashaddiy dushmaniga aylanadi.
+        Davlat ishlarida ancha sezilarli kuchga ega Turkonxotun Nizomulmulkni vazirlikdan olib,
+        o\'rniga o\'ziga yaqin kishisini tayinlaydi. Nizomulmulk shunday ig\'volar bilan
+        vazirlikdan ketgandan so\'ng Bag\'dod safarida Abu Tohir ismli yollanma qotil tig\'idan
+        1092-yili 14-oktabrda o\'ldiriladi. Shoh o\'ldirilganidan keyin davlat ishlari tartibsizlikka
+        uchrab, aholi qiyin ahvolga tushib qoladi. Shuning uchun Muhammad Mag\'ribiy 1105-yilga
+        kelib Nizomulmulk asarini e\'lon qilishga muvaffaq bo\'ladi.\n
+        U asarda davlat boshqaruviga aloqador
+        qariyb hamma qoida va qonunlar, usul va vositalar, qozi va qozixona ishlari, qo\'shin va
+        sarbozlar, xizmatchi va shaxsiy sarbozlar masalalari,
+        saroydagi soqchilaru posbonlar vazifalari, ularning maoshlari, pochta va ayg\'oqchilik (razvedka)
+        ishlari, ularning moddiy jihatlari, hatto shohning oilaviy ishlari,
+        soliq va hiroj, zakot va vaqf masalalari ham o\'rin olgan.
+        Asarning asosiy g\'oyasi shundan iboratki, vazir Nizomulmulk shoh va hokimlarni adlu insofga,
+        sulh va muruvvatga, davlatni oqilona boshqarib, qat\'iy qoida va tartib o\'rnatishga,
+        amaldorlarni vijdonli, pok, halol va iymonli bo\'lishga, mamlakat obodonligi,
+        uning ahli farovonligi, tinchlik va totuvligini ta\'minlash uchun harakat qilishga da\'vat qiladi.\n
+        “Siyosatnoma”ning eng qadimiy nusxalari Britaniya muzeyida (ADD 23516) hamda Berlinda saqlanadi.
+        Bu nusxalar 1168-1169 yili Urmiya shahrida amir-hojib Alp Jamoliddin farmoniga binoan ko\'chirilgan.
+    </string>
+
+    <string name="book_name_diqqat">Diqqat</string>
+    <string name="book_author_name_diqqat">Kel Nyuport</string>
+    <string name="book_diqqat_author_info">
+        Kalvin C. Nyuport (1982 yilda tug\'ilgan) - amerikalik badiiy bo\'lmagan muallif va
+        Jorjtaun universiteti kompyuter fanlari dotsenti. U 2004 yilda Dartmut kollejida bakalavriatda
+        o\'qishni tamomlagan va PhD darajasini olgan. 2009 yilda Nensi Linch ostida
+        Massachusets texnologiya institutida kompyuter fanlari bo\'yicha, 2009-2011 yillarda
+        MIT kompyuter fanlari bo\'limida doktorlik dissertatsiyasiga ega bo\'lgan.
+        Uning bobosi Jon Nyuport baptist vaziredi. 2011-yilda Nyuport Jorjtaun universitetiga
+        informatika kafedrasi dotsenti sifatida qo\'shildi va 2017-yilda lavozimga tayinlandi.
+        Uning ishi qiyin tarmoq stsenariylarida taqsimlangan algoritmlarga qaratilgan va tabiatdagi
+        aloqa tizimlarini o\'rganishni o\'z ichiga oladi. Nyuport hozirda Jorjtaun universitetining
+        Kompyuter fanlari kafedrasida Provostning taniqli dotsenti va sakkizta kitob muallifi.
+    </string>
+    <string name="book_diqqat_description">
+        Elektron pochtayu ijtimoiy tarmoqlar, qo\'yinki, barcha aloqa voistalari diqqatimiz, e\'tiborimiz
+        va vaqtimiz o\'g\'risiga aylandi. Chalg\'imay bir ish qilish og\'ir bo\lib qolgan chalg\'ituvchi dunyoda
+        qanday qilib muvaffaqiyat qozonish mumkin\? Nima qilsak sarflagan har bir vaqtimiz o\'zimizga kattaroq foyda
+        bo\'lib qaytadi\? Nima qilsak ishimizning sifati va unumi ortadi\? Nega ayrim muvaffaqiyatli insonlar o\'zini
+        aloqa vositalaridan uzoq tutishga tirishishadi\? Bu kabi savollarga Massachutes texnalogiyalar instituti
+        professori Kel Nyuport o\'z tajribasi va kuzatuvlari asosida javob beradi. Jamlangan diqqat samarali
+        ishning muhim quroli, uni boshqarish esa oson emas. Bu kitobni o\'qib, sershovqin dunyoda halovat topish
+        va ayni damda muvaffaqiyatli insonlarning xatti xarakatlari asoslarini o\'rganasiz.
+    </string>
+
+    <string name="book_name_zukkolar_va_landovurlar">Zukkolar va landovurlar</string>
+    <string name="book_author_name_zukkolar_va_landovurlar">Malkolm Gladuell</string>
+    <string name="book_zukkolar_va_landovurlar_author_info">
+        Malkolm Timoti Gladuell 1963-yil 3-sentyabrda Kanadada tavallud topgan ingliz jurnalisti,
+        yozuvchi va notiq. U 1996-yildan beri "New York times" gazetasining xodimi yozuvchisi lavozimida
+        faoliyat yuritib kelmoqda. Uning shu vaqtga qadar 7 ta kitobi nashrdan chiqqan.
+        \"Qo\'zg\'alish nuqtasi: Qanday qilib mayda elementlar katta farqni keltirishadi\"(2000),
+        \"Blink: o\'ylamasdan fikrlash kuchi\"(2005), \"Chiqib ketishlar: Muvaffaqiyat tarixi\"(2008)
+        va yana bir qancha mashhur jurnalistik maqolalari va kitoblari chop etilgan.
+    </string>
+    <string name="book_zukkolar_va_landovurlart_description">
+        Malkolm Gladuell har doim mutlaqo tasodif deb hisoblab kelingan muvaffaqiyatlarning
+        zamirida yotgan yashirin qonuniyatlarni topgan birinchi insondir.
+        Bu qonuniyatlar nega aksariyat buyuk xokkeychilar faqat yanvarda tug\‘ilganligini
+        va hech qachon oktyabrda tug\‘ilmasligini, nima uchun matematikani osiyolik talabalar
+        boshqalardan ko\‘ra osonroq o\‘zlashtirishini, nega Nyu-Yorkning eng obro\‘li advokati
+        bo\‘lish uchun albatta yahudiy bo\‘lish lozimligini tushuntirib beradi.
+        Bu kitob Bill Geyts, «Bitlz» va Mosart kabi shaxslarni nima bog\‘lab turishini hamda ular
+        nega o\‘z tengdoshlaridan o\‘zib ketganligini ko\‘rsatadi.
+        «Zukkolar va landavurlar» — «qanday qilib muvaffaqiyatli inson bo\‘lish» bo\‘yicha
+        qo\‘llanma emas. Bu siz o\‘zingizga foydali tarzda foydalanishingiz mumkin bo\‘lgan
+        hayot qonuniyatlari olamiga zavqli bir sayohatdir.
+        Bir necha yil davomida “New York Times” va “Amazon” bestsellerlari ro\‘yxatidan tushmagan
+        ushbu kitobni ko\‘plab mutaxassislar muvaffaqiyat haqidagi eng jiddiy kitob deb talqin etishgan.
+        Kitob talabalarga, o\‘qituvchilarga, o\‘quvchilarga, tadbirkorlarga, umuman
+        muvaffaqiyat qonunlarini kashf etish, o\‘z ishida professional bo\‘lishni, biror bir sohani
+        o\‘rganishni xohlaydiganlarga tavsiya etiladi.
+    </string>
+
+    <string name="book_name_oqshom_xabarlari">Oqshom Xabarlari</string>
+    <string name="book_author_name_oqshom_xabarlari">Artur Xeyli</string>
+    <string name="book_oqshom_xabarlari_author_info">
+        Artur Frederik Xeyli, AE (1920-yil 5-aprel - 2004-yil 24-noyabr) Britaniya-Kanadalik yozuvchi bo\'lib,
+        uning syujeti turli sohalar fonida yaratilgan. Uning "Mehmonxona" (1965), "Aeroport" (1968),
+        "G\'ildiraklar" (1971), "Pul almashtiruvchilar" (1975), "Oddiy yuk" (1979) kabi eng
+        yaxshi sotuvchilarni o\'z ichiga olgan kitoblari 38 tilda 170 million nusxada sotilgan.
+        Artur Frederik Xeyli 1920-yil 5-aprelda Angliyaning Bedfordshir shtatidagi Luton shahrida
+        fabrika ishchisi Jorj Vellington Xeyli va Elsi Rayt Xeylining yagona farzandi bo\'lib tug\'ilgan.
+        Qiziq kitobxon Xeyli yoshligidayoq she\'rlar, pyesalar va hikoyalar yozishni boshlagan. Bir kuni
+        u shunday degan edi: "Onam yozishim uchun menga uy ishlarini qoldirdi". Elsi o\'g\'lini
+        zavod ishchisi o\'rniga xizmatchi bo\'lishi uchun matn terish va stenografiyani o\'rganishga undadi.
+        O\'n to\'rt yoshida Xeyli o\'qishni davom ettirishga imkon beradigan stipendiyani yuta olmadi.
+        1934-yildan 1939-yilgacha u Londonda ofis bolasi va kotibi edi. U 1939 yilda Qirollik havo
+        kuchlariga qo\'shilgan va Ikkinchi Jahon urushi paytida uchuvchi bo\'lib xizmat qilgan va
+        oxir-oqibat parvoz leytenanti darajasiga ko\'tarilgan. 1947-yilda urushdan keyingi
+        leyboristlar hukumatidan norozi holda Kanadaga hijrat qiladi va ikki fuqarolikka ega bo\'ldi.
+        Torontoga joylashib, ko\'chmas mulk, savdo va reklama kabi sohalarda turli ishlarni bajargan.
+        U Bus and Truck Transport deb nomlangan savdo jurnalining muharriri edi. Shu yillarda u yozishni davom ettirdi.\n
+        <b>Yozish uslubi va tanqidiy qabulk qilinish</b>\nArtur Xeyli odatda bir kitobini yozish uchun 3 yil sarflagan.
+        Shundan, bir yilini tadqiqotga bag\'ishlardi, keyin 6 oy o\'z yozuvlarini ko\'rib chiqardi va nihoyat
+        18 oy asarini yozardi. Uning izlanishlari mashaqqatli edi. U birgina o\'zining "Mehmonxona" romanini yozish uchun
+        <i>mehmonxona sanoati</i> haqida 27 ta kitob o\'qigan, <i>Detroid</i>dagi avtomobil zavodida
+        bir necha oy ishlagan. <i>Oqshom Xabarlari</i> romani uchun esa 67 yoshida Peu o\'rmonlarida isyonchi
+        partizanlar bilan birga vaqt o\'tkazgan. Xeylida sezilarli adabiy da\'volar yo\'q edi. U aytardi,
+        "Men ertakchiman, boshqa hamma narsa tasodifiy". Xeyli tanqidchilar tomonidan hayoti davomida
+        doim tarsakilanib kelgan. \n
+        Artur Xeyli 2004-yil 24-noyabrda 84 yoshida uyqusida,
+        Liford-Keydagi uyida, shifokorlarning fikricha, insultdan vafot etdi.
+    </string>
+    <string name="book_oqshom_xabarlari_description">
+        Oqshom Xabarlari (The Evening News) - amerikalik yozuvchi Artur Xeylining 1990-yilda eng ko\'p
+        sotilgan romani. Roman Amerikaning CBC telekompaniyasi - amerikalik tomoshabinlar uchun
+        taniqli prototipga ega televizion stansiyaning ishi haqida hikoya qiladi.
+        Bu Xeylining eng ko\'p sotilgan asarlari kabi mohiyatan ishlab chiqarish romanidir.
+        Romanni yozishdan oldin Xeyli uzoq vaqt Peru o\'rmonidagi partizanlar urushi haqida ma\'lumot
+        to\'pladi, bu juda qiyin edi, chunki yozuvchi o\'sha paytda deyarli 70 yoshda edi.\n
+        Roman 20-asr oxirida AQSh va Janubiy Amerikada sodir bo\'ladi. Peruning "Sendero Luminoso"
+        terrorchilik tashkiloti dadil harakatni amalga oshirmoqda - CBC telekanali boshlovchisi
+        Krouford Sloanning oilasini o\'g\'irlab ketishdi. Terrorchilar garovga olinganlarning hayoti
+        evaziga "Jahon inqilobi: Sendero Luminoso yo\'lni ko\'rsatadi" umumiy sarlavhasi ostida
+        beshta teledasturni jonli efirga uzatishni talab qilmoqda. CBC rahbariyati garovga olinganlarni
+        qidirish uchun guruh tuzishga qaror qiladi, uni kompaniyaning eng yaxshi muxbirlaridan biri
+        Garri Partridge boshqaradi. Sloanning rafiqasi Jessika Partridgening sobiq sevgilisi.
+        Partridge guruhi o\'g\'irlanganlarning xatti-harakatlarini tasavvur qilishga muvaffaq bo\'ladi,
+        ular terrorchilar vaqtincha garovga olish uchun yashirin joy topadilar, ammo bu vaqtga
+        kelib terrorchilar o\'z asirlarini Peruga olib ketishadi . O\'z kontaktlaridan foydalanib,
+        Partridge o\'g\'irlash ortida Sendero Luminoso turganini aniqladi.
+        U Peruga boradi va guruh a\'zolaridan biri anesteziolog Baudello yashagan ayolni topadi.\n
+        Katolik episkopi Partridgega xabar beradi-ki, Sendero Luminoso rahbariyati ruhoniylarga
+        ma\'lum bir hududdan chiqib ketishni buyurgan, chunki u yerda qandaydir harakatlar
+        sodir bo\'lmoqda. Ma\'lumotni taqqoslab, Partridge garovga olinganlar Peru selvasida
+        yo\'qolgan kichik qishloq Nueva Esperanzada ekanligini tushunadi. Partridge guruhi
+        mustaqil ravishda ozodlik operatsiyasini o\'tkazishga qaror qiladi, chunki Peru armiyasi
+        isyonchilarni yo\'q qilish uchun qirg\'in uyushtiradi, bunda garovga olinganlar ham halok bo\'ladi
+        deb hisoblashadi. Tunda Partridgening odamlari Senderist qo\'riqchilarini yo\'q qiladi,
+        garovga olinganlarni ozod qiladi va ularni samolyotda olib ketishi kerak bo\'lgan
+        uchish-qo\'nish yo\'lagiga boradi. Terrorchilar ta\'qib qilishmoqda. Afsuski, qayiq dvigatellaridan
+        biri ishlamay qoladi va guruh uchish-qo\'nish yo\'lagigacha yurishga majbur bo‘ladi.
+        Terrorchilar qochqinlarni quvib o\'tishadi. Peru selvasida uchish-qo\'nish yo\'lagiga
+        samolyotga qo\'nayotganda, terrorchilarning o\'qlari Partridgeni bosib o\'tadi va u vafot etdi.
+        Qolganlar tirik qoladilar.
+    </string>
+
+    <string name="book_name_oyinlar_nazariyasi">"O\'yinlar nazariyasi"</string>
+    <string name="book_author_name_oyinlar_nazariyasi">Avinash Diksit &amp; Barri J. Neylbaf</string>
+    <string name="book_oyinlar_nazariyasi_author_info">
+        Avinash Kamalakar Dixit (1944-yil 6-avgustda tug\'ilgan) — hind-amerikalik iqtisodchi.
+        U Jon JF Sherrerd 52 universitetining Prinston universitetida iqtisod bo\'yicha
+        faxriy professori va Lingnan universiteti (Gonkong) iqtisod bo\'yicha taniqli adyunkt professori ,
+        Oksford va Sanjaya Lalldagi Nuffild kollejida katta ilmiy xodim bo\'lgan.
+        Oksforddagi Green Templeton kollejida tashrif buyuruvchi katta ilmiy xodim.
+    </string>
+    <string name="book_oyinlar_nazariyasi_description">
+        O\'yinlar nazariyasi - bu qat\'iy strategik tafakkur demakdir. Bu raqibning keyingi harakatini
+        u ham huddi shunday qilayotganini bila turib, avvaldan ko\'ra bilish san\'atidir. Nazariyaning
+        asosiy qismi odatiy turmush donoliklari va sog\'lom aqlga ziddir. Shuning uchun uni o\'rganish
+        dunyo tuzulishi va odamlarning o\'zaro ta\'siri haqida yangicha qarashni shakllantirishi mumkin.
+        Kino, sport, siyosat, tarixdan misollar orqali mualliflar deyarli hamma kompaniyalar va
+        odamlar o\'yinlar nazariyasi tomonidan tasvirlangan o\'zaro ta\'sirlarda qanday ishtiror
+        etishini ko\'rsatib berishadi. Bu fanni bilish sizga biznesda ham, shaxsiy hayotda ham foyda keltiradi.
+    </string>
+
+    <string name="book_name_yuqumlilik">Yuqumlilik</string>
+    <string name="book_author_name_yuqumlilik">Yona Berger</string>
+    <string name="book_yuqumlilik_author_info">
+        Yona Berger Pensilvaniya universiteti qoshidagi Uorton biznes maktabining yosh marketing
+        professori. U eng nufuzli ilmiy jurnallarda o\'nlab maqolalari chop etilgan.
+        Berger tadqiqot va o\'qitish sohasidagi mukammalligi uchun mukofotlarga sazovor bo\'lgan,
+        shuningdek, Uorton maktabining "temir professori" unvoniga sazovor bo\'lgan.\n
+        Berger Vashingtonda va Merilend shtatining Chevy Chase shahrida o\'sgan va
+        Silver Springdagi Montgomery Heer o\'rta maktabida magnit dasturida qatnashgan.
+        U Stenford universitetida tahsil olgan va 2002-yilda insoniy mulohazalar va qarorlar qabul
+        qilish bo\'yicha bakalavr darajasini va 2007-yilda Stenford biznes maktabida marketing bo\'yicha
+        PhD darajasini olgan. Berger LinkedIn ta\'siri sifatida psixologiya, marketing, ijtimoiy
+        ta\'sir va viruslilik haqida yozadi.\n<b>Mukofotlari:</b>\n
+        \tAmerika Marketing Assotsiatsiyasi (AMA) marketing bo\'yicha eng samarali tadqiqotchilar beshligi\n
+        \tIste\'molchi tadqiqotlari assotsiatsiyasi (ACR) Iste\'molchi tadqiqotiga qo\'shgan hissasi
+        uchun erta martaba mukofoti\n
+        \tIste\'molchilar psixologiyasiga qo\'shgan ulkan ilmiy hissasi uchun Iste\'molchilar
+        Psixologiyasi Jamiyatining (SCP) Erta martaba mukofoti\n
+        \tFakultetning ajoyib tadqiqotlari uchun universitetning Uorton maktabi temir professori mukofoti\n
+        \tMBA universitetining Uorton maktabi, O\'qitish va o\'quv innovatsiyalariga sodiqlik
+        mukofoti, 2011-yil\n
+        \tNew York Times, G\'oyalar yili
+    </string>
+    <string name="book_yuqumlilik_description">
+        Nima narsalarni mashhur qiladi? Nima uchun odamlar ma\'lum mahsulotlar va g\'oyalar
+        haqida boshqalarga qaraganda ko\'proq gapirishadi? Nima uchun ba\'zi hikoyalar va
+        mish-mishlar ko\'proq yuqumli? Va onlayn kontentning virusli bo\'lishiga nima sabab bo\'ladi?\n
+        Agar siz reklama degan bo\'lsangiz, yana o\'ylab ko\'ring. Odamlar reklamani emas,
+        tengdoshlarini tinglaydilar. Lekin nima uchun odamlar ma\'lum mahsulotlar va g\'oyalar
+        haqida boshqalarga qaraganda ko\'proq gapirishadi? Nima uchun ba\'zi hikoyalar va
+        mish-mishlar ko\'proq yuqumli? Va onlayn kontentning virusli bo\'lishiga nima sabab bo\'ladi?\n
+        Uorton marketing bo\'yicha professori Jonah Berger (Yona Berger) so\'nggi o\'n yil
+        davomida ushbu savollarga javob berdi. U nima uchun New York Times maqolalari gazetaning
+        eng ko\'p elektron pochta orqali yuboriladigan ro\'yxatini tuzishini,
+        mahsulotlar nima uchun og\'izdan og\'izga o\'tishini va ijtimoiy ta\'sir biz sotib olgan
+        mashinalardan tortib, kiygan kiyimimizgacha, farzandlarimizga qo\'yadigan ismlargacha
+        qanday shakllanishini o\'rgandi. Ushbu kitobda Berger og\'izdan-og\'izga va ijtimoiy
+        uzatish ortidagi sir fanni ochib beradi. Oltita asosiy tamoyil iste\'mol mahsulotlari va
+        siyosat tashabbuslaridan tortib, ish joyidagi mish-mishlar va YouTube videolarigacha
+        bo\'lgan barcha turdagi narsalarni yuqumli holga keltirishini bilib oling.\n
+        Yuqumli ma\'lumotlarning tarqalishiga yordam berish uchun - odamlar baham ko\'radigan
+        xabarlar, reklamalar va kontentni loyihalash uchun maxsus, harakatga yaroqli texnikalar
+        to\'plamini taqdim etadi. Siz katta kompaniya menejeri bo\'lasizmi, xabardorlikni
+        oshirishga harakat qilayotgan kichik biznes egasimisiz, lavozimga nomzod bo\'lgan
+        siyosatchimisiz yoki sog\'liqni saqlash xodimi bo\'lasizmi, Yuqumlilik kitobi sizga
+        mahsulot yoki g\'oyangizni qanday amalga oshirishni ko\'rsatib beradi.
+    </string>
+
+    <string name="book_name_tana_tili">har bir tana nima demoqda</string>
+    <string name="book_author_name_tana_tili">Joe Navarro</string>
+    <string name="book_tana_tili_author_info">
+        Joe Navarro (1953-yil 26-may) - kubada tug\'ilgan amerikalik yozuvchi, notiq,
+        sobiq FBI agenti va nazoratchisi. Navarro og\'zaki bo\'lmagan muloqot va tana tili
+        sohasida ixtisoslashgan va ko\'plab kitoblar muallifi, jumladan, "Har bir tana nima demoqda",
+        "Xavfli shaxslar", "So\'zlardan balandroq", "Qiyomatga uch daqiqa" va "Tana tili lug\'ati".
+        Joe Navarro Kubadagi oilasi bilan 8 yoshida AQShga ko\'chib o\'tadi. Brigham Young
+        universitetida Adliya boshqaruvi bo\'yicha bakalavr darajasini va Slippery Rok
+        universitetida xalqaro munosabatlar bo\'yicha san\'at magistri darajasini olganidan so\'ng,
+        u FBI maxsus agenti va 25 yil davomida kontrrazvedka va xatti-harakatlarni baholash
+        sohasida nazoratchi bo\'lib ishlagan. U FQBning xulq-atvor tahlili bo\'yicha
+        elita dasturining asoschilaridan biri va SWAT guruhi qo\'mondoni va byuro uchuvchisi
+        bo\'lib ham ishlagan. FQBdan nafaqaga chiqqanidan beri Navarro inson xatti-harakatlari
+        haqidagi bilimlarini baham ko\'rish uchun kitoblar va ma\'ruzalar yozadi.
+        U hozirda Sent-Leo universiteti yordamchi fakultetida ishlaydi va
+        Garvard biznes maktabida bir necha marta ma\'ruzalar o\'qigan.
+        2003-yildan beri Navarro Davlat departamentlarida maslahatchi va hukumatlararo
+        tadqiqotlar instituti xodimi.
+    </string>
+    <string name="book_tana_tili_description"><b>Xulosa</b>\nUshbu aqlli kitobda sobiq FQB xodimi
+        Jo Navarro sizga og\'zaki
+        bo\'lmagan aqlni (tana tili) qanday o\'zlashtirishni o\'rgatadi.
+        Tana tilini kuzatish va talqin qilishni o\'rganish orqali siz do\'stlaringiz,
+        oilangiz, xo\'jayinlar va notanish odamlar bilan o\'zaro munosabatlaringizni yaxshilaysiz.
+        \n<b>Nega og\'zaki bo\'lmagan muloqot muhim?</b>\nOg\'zaki bo\'lmagan muloqotni
+        chuqur tushunsangiz, barcha vaziyatlarda o\'zingiz va
+        boshqalarning his-tuyg\'ularini, niyatlarini va harakatlarini yaxshiroq tushunasiz.
+        Bu, shuningdek, turli madaniyatlarni qamrab oladigan narsa,
+        shuning uchun u universal tarzda qo\'llaniladi.
+    </string>
+
+    <string name="book_name_atom_odatlar">Atom odatlar</string>
+    <string name="book_author_name_atom_odatlar">Jeyms Klir</string>
+    <string name="book_atom_odatlar_author_info">
+        <b>Jeyms Klir (James Clear) - yozuvchi, tadbirkor va xulq-atvor bo\'yicha mutaxasis</b>
+        \nOdatlar, qarorlar qabul qilish va doimiy takomillashtirishga qaratilgan yozuvchi va
+        ma\'ruzachi. Uning muallifigi ostida New York Times bestselleri, "Atom odatlar" kitobi
+        dunyo bo\'ylab 5 million nusxadan ortiq sotilgan va 50 dan ortiq tillarga tarjima qilingan.
+        Clear Fortune 500 kompaniyalarida muntazam ma\'ruzachi hamda uning maqolalari Time jurnali,
+        New York Times, Wall Street Journal va CBS This Morning kabi jurnal va gazetalarda chop
+        etilgan. Uning mashhur "3-2-1" elektron pochta xabarnomasi har hafta 1 milliondan
+        ortiq obunachilarga yuboriladi.
+    </string>
+    <string name="book_atom_odatlar_description">
+        Jeyms Klirning "Atom odatlar" kitobi odatlarni o\'zgartirish bo\'yicha aniq qo\'llanmadir.
+        Xulq-atvor fanining eng yaxshi usullariga asoslangan oddiy bosqichma-bosqich tizim
+        yordamida yaxshi odatlarni yaratish va yomon odatlardan qanday voz kechishni o\'rganing.
+        Juda amaliy yondashuvga ega. Agar siz xulq-atvoringizni yangilamoqchi bo\'lsangiz va
+        o\'zingizning eng yaxshi versiyangizni yaratmoqchi bo\'lsangiz, bu kitobni o\'qish kerak.\n
+        <i>“Sizning har bir harakatingiz siz bo\'lishni xohlagan odamga ovoz berishdir.
+        Hech bir misol sizning e\'tiqodingizni o\'zgartira olmaydi, lekin ovozlar ko\'paygan
+            sari yangi shaxsingizni tasdiqlovchi dalillar ham o\'zgaradi."</i>
+    </string>
+
+    <string name="book_name_shavqatsiz_asr">Shavqatsiz asr</string>
+    <string name="book_author_name_shavqatsiz_asr">Isay Kalashnikov</string>
+    <string name="book_shavqatsiz_asr_author_info">
+        Isay Kalistratovich Kalashnikov (1931-yil 9-avgust, Buryat ASSR Muxorshibir tumani,
+        Sharalday qishlog\'i - 1980-yil 30-may, Moskva) - Sovet yozuvchisi, Chingizxon haqidagi
+        "Shafqatsiz asr" tarixiy romani bilan mashhur (ikki qismli - "Quvg\'inga uchraganlar”
+        va “Ta\'qibchilar”) (1978). Maktabning beshinchi sinfini tugatgandan so\'ng u ishlay boshladi -
+        avval cho\'pon, keyin traktor brigadasida, 1950-yildan Itantsinskiy yog\'och sanoati
+        korxonasida daraxt kesuvchilar brigadasida, raftingda, duradgor, tokarda ishladi.
+        Birinchi "Sashka" hikoyasi "Buryat-Mongolskaya pravda" gazetasida nashr etilgan.
+        1954-yildan beri Kalashnikov Buryat-Mo\'g\'ul komsomolets gazetasining xodimi.
+        O\‘rta ta\’limni kechki maktabda tamomlagan. 1959-yilda "Baykal ustidagi yorug\'lik"
+        jurnali Kalashnikovning Transbaykaliyadagi fuqarolar urushi haqidagi birinchi
+        "So\'nggi chekinish" romanini nashr etdi.
+        Romanning bosh qahramonlari uning tug\'ilgan qishlog'i Sharalday aholisidir.
+        Shundan so‘ng “O\'sish” va “Botqoq bo\'ylab” hikoyalari paydo bo\'ldi.
+        Kalashnikov SSSR Yozuvchilar uyushmasiga qabul qilindi. 1963-yildan 1965-yilgacha
+        Buryatiya Yozuvchilar uyushmasi yo\'nalishi bo\'yicha Kalashnikov Moskvadagi Oliy adabiy
+        kurslarda tahsil oldi. 1965-yilda Buryat ASSR Yozuvchilar uyushmasi boshqaruvi mas\'ul kotibi
+        etib saylandi. 1970-yilda "Gap o\'ti" romani nashr etildi.
+        Roman 20-asrning birinchi yarmidagi oilaviy odamlarning hayotini tasvirlaydi.
+        "Gap-grass" "Roman-gazeta", keyin esa "Sovremennik" nashriyotida nashr etilgan.
+        Ushbu roman uchun muallif Buryat ASSR Davlat mukofotiga sazovor bo\'lgan.
+        1973-yilda Kalashnikov "Buryatiya xalq yozuvchisi" unvoniga sazovor bo\'ldi.
+        Roman asosida Rus drama teatrida spektakl namoyish etildi.
+        1978-yilda “Shafqatsiz asr” romani nashr etildi. Kalashnikov asarlari buryat, nemis, chex va
+        eston tillariga tarjima qilingan.
+    </string>
+    <string name="book_shavqatsiz_asr_description">Isay Kalashnikovning “Shafqatsiz asr”
+        romanini o\'qir ekansiz, umrini bosqinchilik va jangu-jadal ortida o\'tkazgan, tarixda
+        o\'z nomini yozib qoldirib ketgan Temuchin - Chingizxonning bolalik va o\'spirinlik davrini
+        qiyinchilik, yo\'qsillik, xor-u zorlikda o\'tkazganini, u o\'sha paytlarda odiy insonlardek
+        tinch va osoyishta kun kechirishni qanchalar orzu qilganini guvohi bo\'lasiz. Temuchin onasi
+        va ukalari bilan xotirjam hayot istab kimsasiz xududga bosh olib ketsa-da, ta\'qiblardan
+        qutula olmay, chekina-chekina charchagach, hujum qilish, bosqinchilik va talonchlik qilishni
+        xor bo\'lmaslik va bu shafqatsiy dunyoda yashab qolishning yagona yo\'li deb o\'ylaydi. Ana
+        shu kundan shakllana boshlagan dunyoning eng ulkan imperiyasi asoschisi Temuchinni
+        keyinchalik hech kim to\'xtata olmaydi. Yengilmas sarkarda va o\'ta murakkab shaxs - Chingizxon
+        xaqidagi maskur roman Isayya Kalashnikovning 10 yildan ortiqroq davr mobaynida tarixiy faktlar
+        va shu mavzudagi adabiyotlarni puxta o\'rganishi natijasida yuzaga kelgan. Kitob, shavqatsizlik
+        asri voqealarini his qilish, har qanday buyuk shaxslar ham boshida hamma qatori oddiy inson
+        bo\'lganiini anglash va moziy xaqiqatlaridan ogoh bo\'lishni istaganlar uchun bu kitob muhim manbadir.
+    </string>
+
+    <string name="mualliflar">Mualliflar</string>
+
+</resources>
